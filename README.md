@@ -7,7 +7,7 @@
 ### 🤔 Interest 
 
 - [Java](https://github.com/oxix97/Java)
-- [JavaAlgorithm](https://github.com/oxix97/Android_Study)
-- [Android](https://github.com/oxix97/Algorithm)
+- [JavaAlgorithm](https://github.com/oxix97/Algorithm)
+- [Android](https://github.com/oxix97/Android_Study)
 - Kotlin
 ---
