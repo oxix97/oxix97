@@ -13,6 +13,6 @@
 ---
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Chan})](https://solved.ac/{Chan})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ieejo716})](https://solved.ac/{ieejo716})
 
 
