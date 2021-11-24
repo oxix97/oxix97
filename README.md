@@ -12,4 +12,4 @@
 - [Kotlin](https://github.com/oxix97/Kotlin)
 ---
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{oxix97})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{Chan})
