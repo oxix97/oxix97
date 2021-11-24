@@ -11,6 +11,5 @@
 - [Android](https://github.com/oxix97/Android_Study)
 - [Kotlin](https://github.com/oxix97/Kotlin)
 ---
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{userid})
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{userid})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/{userid})
