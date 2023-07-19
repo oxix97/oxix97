@@ -7,9 +7,10 @@
 ### 🤔 Interest 
 
 - [Java](https://github.com/oxix97/Java)
-- [JavaAlgorithm](https://github.com/oxix97/Algorithm)
-- [Android](https://github.com/oxix97/Android_Study)
+- [Algorithm](https://github.com/oxix97/Algorithm)
+- [Spring](https://github.com/oxix97/SpringBootStudy)
 - [Kotlin](https://github.com/oxix97/Kotlin)
+- [Android](https://github.com/oxix97/Android_Study)
 ---
 
 [![Solved.ac
